@@ -9,4 +9,4 @@ IP=<public ip of this machine> cargo run
 
 https://rustdesk.com/blog/id-relay-set/
 
-https://github.com/rustdesk/rustdesk/issues/115
+https://github.com/revived-midas/rustdesk-server-demo/issues/115
